@@ -1,0 +1,51 @@
+#tabla {
+  background-color: rgb(4, 4, 136);
+  color: rgb(255, 255, 255);
+  margin: 10px;
+  box-shadow: 2px 2px 5px #999;
+}
+
+#tabla2 {
+    background-color: rgb(4, 4, 136);
+    color: rgb(255, 255, 255);
+    
+    /* darle sombra */
+    box-shadow: 4px 3px 6px #999;
+
+  }
+
+#nav {
+  background-color: rgb(4, 4, 136);
+  
+  display: inline;
+
+}
+
+#footer{
+  margin: 1px auto;
+  margin: 50px;
+  
+   
+
+ }
+#cuartos{
+  text-align:center;
+  margin: 30px;
+  right: 40px;
+  text-shadow: 4px 3px 6px #999;
+}
+
+#navegar{
+  padding-top:0px;
+  background-color: rgb(216, 216, 216);
+ 
+
+}
+
+#tabla3{
+  background-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+  
+  /* darle sombra */
+  box-shadow: 4px 3px 6px #999;
+}
